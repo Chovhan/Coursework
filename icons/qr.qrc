@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="start">
+    <file>start_release.png</file>
+  </qresource>
+  <qresource prefix="folder">
+    <file>folder.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>07.jpg</file>
+  </qresource>
+  <qresource prefix="options">
+    <file>options.png</file>
+  </qresource>
+  <qresource prefix="close">
+    <file>close.png</file>
+  </qresource>
+</RCC>
